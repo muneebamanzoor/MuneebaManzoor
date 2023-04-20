@@ -1,4 +1,14 @@
 ### Hi there 👋
+I am Muneeba, an undergradute student looking forward to grab opportunities in tech projects. I really enjoy learning new languages and frameworks to always remain updated on what can help me to be the best among all. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor)](https://github.com/anuraghazra/github-readme-stats)
+
+For front-end Development, I have experience of HTML, CSS, Bootstrap, JavaScript and Reactjs framework.
+I am interested in backend development too, for that I have knowledge about PHP and currently learning Nodejs.
+I have worked with Wordpress and Shopify.
+I have worked on .Net application and have understanding of dotNet framework.
+I have basic knowledge of Azure Cloud Management.
+Have intermediary skills in Adobe XD and Axure.
 
 <!--
 **muneebamanzoor/MuneebaManzoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
