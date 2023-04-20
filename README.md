@@ -13,19 +13,15 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 - I have basic knowledge of **Azure Cloud Management** and have intermediary skills in **Adobe XD** and **Axure**.
 - Code Sandbox is my go-to tool.
 
-
-- 📫 Reach me at: muneebamanzoor282@gmail.com 
-- ⚡ Fun fact: I often do calligraphy and sketching as well 
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muneebamanzoor&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&hide=hack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&hide=hack&layout=compact&theme=dark"><br>
+    <img src = "https://github-readme-stats.vercel.app/api?username=muneebamanzoor&show_icons=true&theme=dark">
+  <img src = "https://streak-stats.demolab.com/?user=muneebamanzoor&theme=dark">
+</p>
 
 
 
-(https://gpvc.arturio.dev/muneebamanzoor&theme=dark)
-
+- 📫 Reach me at: muneebamanzoor282@gmail.com </p>
 
 
 <!--
