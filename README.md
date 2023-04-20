@@ -9,12 +9,12 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 - I know different languages like **Python, C++, Javascript** and **C#**. 
 - For front-end Development, I have an experience of **HTML, CSS, Bootstrap, JavaScript** and **ReactJS** framework.
 - For backend development, I have knowledge about **PHP** and currently making an effort to learn **NodeJS**.
-- I have worked with **Wordpress** and **Shopify** and also on .Net application and have understanding of **.Net framework** as well.
-- I have basic knowledge of **Azure Cloud Management** and have intermediary skills in **Adobe XD** and **Axure**.
+- I have worked with **Wordpress** and **Shopify** and also have a elementary knowledge of **.Net framework** as well.
+- I have basic understanding of **Azure Cloud Management** and have intermediary skills in **Adobe XD** and **Axure**.
 - Code Sandbox is my go-to tool.
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&hide=hack&layout=compact&theme=dark"><br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&layout=compact&theme=dark"><br>
     <img src = "https://github-readme-stats.vercel.app/api?username=muneebamanzoor&show_icons=true&theme=dark">
   <img src = "https://streak-stats.demolab.com/?user=muneebamanzoor&theme=dark">
 </p>
