@@ -21,7 +21,8 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 - 📫 Reach me at: muneebamanzoor282@gmail.com 
 - ⚡ Fun fact: I often do calligraphy and sketching as well 
 
-![Profile views](https://gpvc.arturio.dev/muneebamanzoor)
+<div align='center'>![Profile views](https://gpvc.arturio.dev/muneebamanzoor)</div>
+
 
 
 <!--
