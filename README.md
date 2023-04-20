@@ -1,4 +1,5 @@
 ![Web Development](https://media.licdn.com/dms/image/D4D16AQFm59l3Oo2aIA/profile-displaybackgroundimage-shrink_350_1400/0/1681970316722?e=1687392000&v=beta&t=70NfnLP8ssvO6kn2tFVNhr9aLbYnp_JJ3I6XE2paL3w)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ### Hi there 👋, Muneeba Manzoor
 I am Muneeba, an undergradute student looking forward to grab opportunities in tech projects. I really enjoy learning new languages and frameworks to always remain updated on what can help me to be the best among all. 
@@ -14,7 +15,7 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&hide=hack&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&hide=hack&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muneebamanzoor&theme=dark)](https://git.io/streak-stats)
 
