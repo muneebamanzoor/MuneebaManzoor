@@ -5,11 +5,11 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 
 #### SKILLS AND EXPERTISE
 
-- I know different languages like Python, C++, Javascript and C#. 
-- For front-end Development, I have an experience of HTML, CSS, Bootstrap, JavaScript and Reactjs framework.
-- For backend development, I have knowledge about PHP and currently making an effort to learn Nodejs.
-- I have worked with Wordpress and Shopifyand also on .Net application and have understanding of dotNet framework as well.
-- I have basic knowledge of Azure Cloud Management and have intermediary skills in Adobe XD and Axure.
+- I know different languages like **Python, C++, Javascript** and **C#**. 
+- For front-end Development, I have an experience of **HTML, CSS, Bootstrap, JavaScript** and **ReactJS** framework.
+- For backend development, I have knowledge about **PHP** and currently making an effort to learn **NodeJS**.
+- I have worked with **Wordpress** and **Shopify** and also on .Net application and have understanding of **.Net framework** as well.
+- I have basic knowledge of **Azure Cloud Management** and have intermediary skills in **Adobe XD** and **Axure**.
 - Code Sandbox is my go-to tool.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -19,7 +19,8 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 
 - 📫 Reach me at: muneebamanzoor282@gmail.com 
 - ⚡ Fun fact: I often do calligraphy and sketching as well 
-- ![Profile views](https://gpvc.arturio.dev/muneebamanzoor)
+
+![Profile views](https://gpvc.arturio.dev/muneebamanzoor)
 
 
 <!--
