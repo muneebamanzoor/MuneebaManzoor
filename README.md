@@ -1,14 +1,27 @@
-### Hi there 👋
+
+### Hi there 👋, Muneeba Manzoor
+#### Web Development
+![Web Development](https://media.licdn.com/dms/image/D4D16AQFm59l3Oo2aIA/profile-displaybackgroundimage-shrink_350_1400/0/1681970316722?e=1687392000&v=beta&t=70NfnLP8ssvO6kn2tFVNhr9aLbYnp_JJ3I6XE2paL3w)
+
 I am Muneeba, an undergradute student looking forward to grab opportunities in tech projects. I really enjoy learning new languages and frameworks to always remain updated on what can help me to be the best among all. 
+
+- I know different languages like Python, C++, Javascript and C#. For front-end Development, I have an experience of HTML, CSS, Bootstrap, JavaScript and Reactjs framework.
+- For backend development, I have knowledge about PHP and currently making an effort to learn Nodejs.
+- I have worked with Wordpress and Shopifyand also on .Net application and have understanding of dotNet framework as well.
+- I have basic knowledge of Azure Cloud Management and have intermediary skills in Adobe XD and Axure.
+- Code Sandbox is my go-to tool.
+
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Final Year Project 
+- 🌱 I’m currently learning MERN Stack Development 
+- 📫 How to reach me: muneebamanzoor282@gmail.com 
+- ⚡ Fun fact: I often do calligraphy and sketching as well 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor)](https://github.com/anuraghazra/github-readme-stats)
 
-For front-end Development, I have experience of HTML, CSS, Bootstrap, JavaScript and Reactjs framework.
-I am interested in backend development too, for that I have knowledge about PHP and currently learning Nodejs.
-I have worked with Wordpress and Shopify.
-I have worked on .Net application and have understanding of dotNet framework.
-I have basic knowledge of Azure Cloud Management.
-Have intermediary skills in Adobe XD and Axure.
+
 
 <!--
 **muneebamanzoor/MuneebaManzoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
