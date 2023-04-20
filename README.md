@@ -13,7 +13,7 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 - Code Sandbox is my go-to tool.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&hide=hack&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
