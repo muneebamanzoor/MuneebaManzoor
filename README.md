@@ -15,6 +15,7 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebamanzoor&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebamanzoor&hide=hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=muneebamanzoor&theme=synthwave
 
 
 - 📫 Reach me at: muneebamanzoor282@gmail.com 
