@@ -10,8 +10,6 @@ I am Muneeba, an undergradute student looking forward to grab opportunities in t
 
 #### SKILLS AND EXPERTISE
 
-![Software Engineer Intro Portfolio (2)](https://github.com/muneebamanzoor/MuneebaManzoor/assets/61382726/4a611575-6e12-43af-aaeb-c0f791a22faf)
-
 - I know different languages like **Python, C++, Javascript** and **C#**. 
 - For front-end Development, I have an experience of **HTML, CSS, Bootstrap, JavaScript** and **ReactJS** framework.
 - For backend development, I have knowledge about **PHP** and currently making an effort to learn **NodeJS**.
